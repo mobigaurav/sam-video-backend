@@ -1,0 +1,11 @@
+{
+    "name": "video-lambda",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "aws-sdk": "^2.1301.0",
+        "ffmpeg": "^0.0.4",
+        "ffmpeg-static": "^5.2.0",
+        "fluent-ffmpeg": "^2.1.3"
+    }
+}

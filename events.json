@@ -1,0 +1,12 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": { "name": "my-local-bucket" },
+          "object": { "key": "videos/testuser%40email.com/123456789.mov" }
+        }
+      }
+    ]
+  }
+  
+
